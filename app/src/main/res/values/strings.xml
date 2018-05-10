@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EcoTrip</string>
+    <string name="labelLista">Selecione a opção desejada:</string>
+    <string name="altImgLogo">EcoTrip</string>
+    <string name="logoMorro">EcoTrip</string>
+    <string name="title_activity_eco_trip">Map</string>
+    <string name="link">http://www.google.com</string>
+</resources>
